@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Good girl
+=======
+Good morning
+>>>>>>> b1
